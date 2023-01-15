@@ -1,0 +1,12 @@
+.team{
+    list-style: none;
+    &-list{
+        display: flex;
+        gap: 20px;
+
+    }
+    &-item{
+        padding: 50px;
+        background-color: aqua;
+    }
+}
