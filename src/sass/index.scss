@@ -1,4 +1,9 @@
+@import "~nice-select2/src/scss/nice-select2.scss";
+@import "~/node_modules/aos/dist/aos.css";
 @import './common';
-@import './example';
+@import './base';
+@import './vendors/select';
 @import './section/section-hero';
 @import './section/section-about';
+@import './section/section-slider';
+@import './section/section-animation';
